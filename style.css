@@ -1,0 +1,11 @@
+.tex{
+    border-bottom: solid rgb(94, 253, 174) 2px ;
+}
+.imege{
+    width: 500px;
+    height: 300px;
+    border: 2px solid blue;
+    border-radius: 25px;
+    color: peru;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
